@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxTrann&show_icons=true&theme=tokyonight)
+
+📫 Liên hệ mình tại:
+
+- [Instagram]([https://instagram.com/in/yourname](https://www.instagram.com/_maxtrann/))
+- [Facebook]([https://facebook.com/yourname](https://www.facebook.com/tran.le.quoc.ai.149118/?locale=vi_VN))
+- [Portfolio](https://yourportfolio.com)
