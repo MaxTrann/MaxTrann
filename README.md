@@ -1,23 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Max Trần</h1>
 
-<!--
-**MaxTrann/MaxTrann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=💻+Welcome+to+my+GitHub!;🚀+I+love+coding+and+learning+new+tech!;" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxTrann&show_icons=true&theme=tokyonight)
+### 📌 Giới thiệu ngắn gọn
 
-📫 Liên hệ mình tại:
+- 🎓 Sinh viên năm 2 ngành Công nghệ thông tin  
+- 🌱 Đang học các môn về **AI, Web, IoT, Bảo mật**
+- 🧠 Quan tâm đến các project như: nhận diện khuôn mặt, game AI, thuật toán tìm đường
+- 📫 Kết nối mình ở các nền tảng bên dưới!
 
-- [Instagram]([https://instagram.com/in/yourname](https://www.instagram.com/_maxtrann/))
-- [Facebook]([https://facebook.com/yourname](https://www.facebook.com/tran.le.quoc.ai.149118/?locale=vi_VN))
-- [Portfolio](https://yourportfolio.com)
+---
+
+### 🧰 Kỹ năng
+
+```markdown
+💻 Ngôn ngữ: Python, C#, Java  
+🌐 Web: HTML, CSS, JavaScript  
+📦 Tools: Git, GitHub, VSCode, DevExpress  
+🧠 AI: A*, 8-Puzzle Solver, Face Recognition  
