@@ -8,7 +8,7 @@
 
 ### 📌 Giới thiệu ngắn gọn
 
-- 🎓 Sinh viên năm 2 ngành Công nghệ thông tin  
+- 🎓 Sinh viên năm 2 ngành Công nghệ thông tin  tại SPKT
 - 🌱 Đang học các môn về **AI, Web, IoT, Bảo mật**
 - 🧠 Quan tâm đến các project như: nhận diện khuôn mặt, game AI, thuật toán tìm đường
 - 📫 Kết nối mình ở các nền tảng bên dưới!
